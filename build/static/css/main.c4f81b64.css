@@ -1,0 +1,24 @@
+.dropdown {
+  display: inline-block;
+}
+.dropdown button {
+  cursor: pointer;
+  padding: 10px;
+}
+.dropdown-list {
+  background: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 8px #0000001a;
+  left: 0;
+  position: absolute;
+  top: 100%;
+  width: 100%;
+}
+.dropdown-item {
+  cursor: pointer;
+  padding: 10px;
+}
+.dropdown-item.selected {
+  background-color: #f0f0f0;
+}
+/*# sourceMappingURL=main.c4f81b64.css.map*/
